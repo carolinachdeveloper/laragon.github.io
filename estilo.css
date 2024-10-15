@@ -1,0 +1,25 @@
+----------- Personalizar el formulario 
+
+
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;   
+}
+
+.form-group {
+  margin: 15px 0;
+}
+
+.btn-fucsia {
+  background-color: #ff0080;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
